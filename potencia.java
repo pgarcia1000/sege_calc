@@ -1,5 +1,5 @@
 class potencia {
-
+    // Calcular potencia de base
     public static void main(String[] args) {
         // int a = Integer.parseInt(arg[0]);
         int x = 3;
