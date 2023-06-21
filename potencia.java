@@ -8,7 +8,7 @@ class potencia {
 
         for (int i = 1; i <= y; i++) {
 
-            resultado = resultado * x -5;
+            resultado = resultado * x -5+4;
 
         }
         System.out.println(resultado);
